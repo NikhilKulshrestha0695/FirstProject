@@ -1,2 +1,0 @@
-user name = nvm02
-password = rdy03
