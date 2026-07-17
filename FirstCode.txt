@@ -3,3 +3,6 @@ take input from user
 add the values
 
 submit data to database
+
+
+create an avtar for user
